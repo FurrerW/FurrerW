@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, 👋 I'm Walter</h1>
 <h3 align="center">A tech enthusiast turning this hobby into a career.</h3>
 
-- 🌱 I’m currently learning: **HTML, CSS, JS,***and more!*
+- 🌱 I’m currently learning: **HTML, CSS, JS,** *and more!*
 
 - 📝 I've started writing articles at [walterfurrer.com](walterfurrer.com) about my journey to become ~~the very best~~ a developer.
 
