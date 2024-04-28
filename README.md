@@ -1,13 +1,13 @@
 <h1 align="center">Hello there, 👋 I'm Walter</h1>
 <h3 align="center">A tech enthusiast turning this hobby into a career.</h3>
 
-- 🌱 I’m currently learning **Azure, Python, Bash**
+- 🌱 I’m currently learning: **HTML, CSS, JS,***and more!*
 
-- 📝 I regularly write articles on [walterfurrer.com](walterfurrer.com)
+- 📝 I've started writing articles at [walterfurrer.com](walterfurrer.com) about my journey to become ~~the very best~~ a developer.
 
-- 📫 How to reach me **walterfurrer@proton.me**
+- 📫 How to reach me: **walterfurrer@proton.me**
 
-- ⚡ Fun fact **I have a twin brother who is a Front-End Web Developer!**
+- ⚡ Fun fact: **I have a twin brother who is a Web Developer and he's currently looking for a job! Check him out at [ryandotfurrer.com](ryandotfurrer.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
