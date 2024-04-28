@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **walterfurrer@proton.me**
 
-- ⚡ Fun fact: **I have a twin brother who is a Web Developer and he's currently looking for a job! Check him out at <a href="https://ryanfurrer.com" target="_blank" rel="noopener noreferrer"></a>**
+- ⚡ Fun fact: **I have a twin brother who is a Web Developer and he's currently looking for a job! Check him out at <a href="https://ryanfurrer.com" target="_blank" rel="noopener noreferrer">ryanfurrer.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
