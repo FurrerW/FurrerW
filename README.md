@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript,** *and more!*
 
-- 📝 I've started writing articles at [walterfurrer.com](https://walterfurrer.com) about my journey to become ~~the very best~~ a developer.
+- 📝 I've started writing articles at <a href="http://walterfurrer.com" target="_blank">walterfurrer.com</a> about my journey to become ~~the very best~~ a developer.
 
 - 📫 How to reach me: **walterfurrer@proton.me**
 
-- ⚡ Fun fact: **I have a twin brother who is a Web Developer and he's currently looking for a job! Check him out at [ryandotfurrer.com](https://ryandotfurrer.com)**
+- ⚡ Fun fact: **I have a twin brother who is a Web Developer and he's currently looking for a job! Check him out at <a href="http://ryandotfurrer.com" target="_blank">Check him out here!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
