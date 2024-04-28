@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript,** *and more!*
 
-- 📝  
+- 📝  I've started writing articles at <a href="https://walterfurrer.com" target="_blank">walterfurrer.com</a> about my journey to become ~~the very best~~ a developer.
 
 - 📫 How to reach me: **walterfurrer@proton.me**
 
